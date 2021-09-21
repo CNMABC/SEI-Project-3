@@ -98,9 +98,7 @@ const groupSchema = new mongoose.Schema({
 })
 
 ```
-I also wrote the RESTful requests for the groups including index, create, show, delete and update.
-
-We split out the front-end and I created all the routes as well as the home-page and generator. 
+I also wrote the RESTful requests for the groups including index, create, show, delete and update. We split out the front-end and I created all the routes as well as the home-page and generator. 
 
 
 <h2>Wins</h2>
